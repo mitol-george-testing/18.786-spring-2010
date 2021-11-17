@@ -1,0 +1,26 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "006e5c25-e7be-44ee-b7a0-e39b494bf627"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Algebraic Number Theory",
+  "course_description": "This course provides an introduction to algebraic number theory. Topics covered include dedekind domains, unique factorization of prime ideals, number fields, splitting of primes, class group, lattice methods, finiteness of the class number, Dirichlet's units theorem, local fields, ramification, discriminants.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.786",
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
